@@ -1,0 +1,23 @@
+{
+    "name": "veneridze/laravel-user-sessions-control",
+    "require": {
+        "hisorange/browser-detect": "^5.0",
+        "spatie/laravel-data": "^4.9",
+        "spatie/laravel-package-tools": "^1.16",
+        "laravel/framework": "^11.0",
+        "php": "^8.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Veneridze\\LaravelUserSessionsControl\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Veneridze",
+            "email": "viacheslav.kopaev@yandex.ru"
+        }
+    ],
+    "minimum-stability": "stable"
+}
